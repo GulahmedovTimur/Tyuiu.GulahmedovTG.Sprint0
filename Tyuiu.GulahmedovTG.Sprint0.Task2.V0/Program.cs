@@ -1,5 +1,5 @@
 ﻿using System;
-using Tyuiu.SprintTG.Sprint0.Task2.V0.Lib;
+using Tyuiu.GulahmedovTG.Sprint0.Task2.V0.Lib;
 namespace Tyuiu.GulahmedovTG.Sprint0.Task2.V0
 {
     internal class Program

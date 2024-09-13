@@ -1,4 +1,5 @@
-﻿namespace Tyuiu.SprintTG.Sprint0.Task2.V0.Lib
+﻿
+namespace Tyuiu.GulahmedovTG.Sprint0.Task2.V0.Lib
 {
     public class DataService
     {
